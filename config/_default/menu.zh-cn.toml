@@ -1,0 +1,15 @@
+[[main]]
+  name = "链接"
+  identifier = "dropdown"
+[[main]]
+  parent = "dropdown"
+  name = "Github"
+  url = "https://github.com/kitssang"
+  pre = '<i class="fab fa-fw fa-github"></i>'
+
+[[main]]
+  parent = "dropdown"
+  name = " Bilibili"
+  url = "https://space.bilibili.com/1378924811"
+  pre = '<i class="fab fa -fw fa-youtube"></i>'
+
